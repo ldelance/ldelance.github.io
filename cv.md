@@ -32,17 +32,17 @@ Jury
 
 ### 2018 – 2020 Master of Physics at ENS de Lyon, France
 
-Research internships:
+- Research internships:
 
-- SIMM laboratory, ESPCI, Paris   
-   **Effect of surfactants on the passage of a drop immersed in water through a constriction**   
-   Supervisors: François Lequeux, Laurence Talini, Emilie Verneuil
+   - SIMM laboratory, ESPCI, Paris   
+      **Effect of surfactants on the passage of a drop immersed in water through a constriction**   
+      Supervisors: François Lequeux, Laurence Talini, Emilie Verneuil
 
-- Losert Lab, University of Maryland, USA   
-   **Experimental study of the rotational motion of particles in a granular material**   
-   Supervisor: Wolfgang Losert, Zackery Benson
+   - Losert Lab, University of Maryland, USA   
+      **Experimental study of the rotational motion of particles in a granular material**   
+      Supervisor: Wolfgang Losert, Zackery Benson
   
-Participation in the **French and International Physicists' Tournament**   
+- Participation in the **French and International Physicists' Tournament**   
 Winner of the French Tournament with the team of the University of Lyon; Second at the international tournament.
 
 
