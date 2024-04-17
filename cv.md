@@ -35,12 +35,12 @@ Jury
 Research internships:
 
 - SIMM laboratory, ESPCI, Paris
-: Effect of surfactants on the passage of a drop immersed in water through a constriction
-Supervisors: François Lequeux, Laurence Talini, Emilie Verneuil
+:   Effect of surfactants on the passage of a drop immersed in water through a constriction
+    Supervisors: François Lequeux, Laurence Talini, Emilie Verneuil
 
 - Losert Lab, University of Maryland, USA
-:  Experimental study of the rotational motion of particles in a granular material   
-   Supervisor: Wolfgang Losert
+:   Experimental study of the rotational motion of particles in a granular material   
+    Supervisor: Wolfgang Losert
 
 ### 2017 Bachelor of Physics at ENS de Lyon, France
 
