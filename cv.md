@@ -23,7 +23,7 @@ Supervisors
 : François Lequeux, Laurence Talini, Emilie Verneuil
 
 Thesis title
-: Destabilisation mechanisms of oil foams [(.PDF)](res/thesis.pdf)
+: Destabilisation mechanisms of oil foams [(.PDF)](res/ESPCI_DELANCE_2023_archivage2.pdf)
 
 Jury
 : Elise Lorenceau (Reviewer)   
