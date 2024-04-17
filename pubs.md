@@ -13,7 +13,7 @@ nav_order: 3
 
 ### Uptake kinetics of spontaneously emulsified microdroplets at an air–liquid interface  
 
-**L. Delance**,  C. Veillon, N. Passade-Boupat, F. Lequeux, L. Talini and  E. Verneuil
+**L. Delance**,  C. Veillon, N. Passade-Boupat, F. Lequeux, L. Talini and  E. Verneuil   
 *Soft Matter*, 2022
 [(DOI)](https://doi.org/10.1039/D2SM00511E) 
 
