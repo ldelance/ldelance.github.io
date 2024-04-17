@@ -11,7 +11,6 @@ nav_order: 2
 
 With Hans-Jürgen Butt and Kaloian Koynov
 
-
 ### 10/2020 – 12/2023: PhD in Physics at SIMM laboratory, ESPCI, Paris, France
 
 Supervisors
