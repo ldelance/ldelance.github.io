@@ -6,9 +6,7 @@ nav_order: 2
 # Curriculum vitae
 
 
-
 ## Academic Background
-
 
 
 ### 01/2024 – now: Post-doctoral researcher at Max Planck Institute for Polymer Research, Mainz, Germany
