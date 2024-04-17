@@ -26,9 +26,9 @@ Thesis title
 : Destabilisation mechanisms of oil foams [(.PDF)](res/thesis.pdf)
 
 Jury
-: Elise Lorenceau    
-  Arnaud Saint Jalmes    
-
+: Elise Lorenceau (Reviewer)   
+  Arnaud Saint Jalmes (Reviewer)
+  Marie Le Merrer
 
 ### 2018 – 2020 Master of Physics at ENS de Lyon, France
 
