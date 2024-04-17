@@ -34,11 +34,11 @@ Jury
 
 - Research internships:
 
-   - SIMM laboratory, ESPCI, Paris   
+   - SIMM laboratory, ESPCI, Paris (4 months)   
       **Effect of surfactants on the passage of a drop immersed in water through a constriction**   
       Supervisors: François Lequeux, Laurence Talini, Emilie Verneuil
 
-   - Losert Lab, University of Maryland, USA   
+   - Losert Lab, University of Maryland, USA (3 months)   
       **Experimental study of the rotational motion of particles in a granular material**   
       Supervisor: Wolfgang Losert, Zackery Benson
   
@@ -48,16 +48,16 @@ Winner of the French Tournament with the team of the University of Lyon; Second 
 
 ### 2017 Bachelor of Physics at ENS de Lyon, France
 
-Research internships:
+Research internship:
 
-- SIMM laboratory, ESPCI, Paris   
+- SIMM laboratory, ESPCI, Paris (2 months)   
    **Dynamics of magnetic cylinders under a magnetic field**   
    Supervisors: Olivia Du Roure, Julien Heuvingh
   
 ## Teaching
 
 - **Initiation to programming** (Python)
-  - 2024
+  - April - August 2024
   - Johannes Gutenberg University Mainz
   - *Total time:* 24h TP
 
