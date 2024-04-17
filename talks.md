@@ -4,7 +4,7 @@ layout: default
 nav_order: 4
 ---
 
-# International conferences
+### International conferences
 
 - Juillet 2024 (forthcoming) : **EUFOAM**, Dresden.   
 Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
@@ -21,7 +21,7 @@ Stability of a thin liquid film composed of spontaneously emulsified microdrople
 - 2021 : **ECIS** (European Colloid and Interface Society), Athènes.   
 Interfacial dynamics of a surfactant-laden drop flowing through a contraction.
 
-# National (French) conferences
+### National (French) conferences
 
 - 2023 : **GDR SLAMM**, Sète.   
 Bursting of non-aqueous suspended liquid films induced by Marangoni-driven spreading of emulsified droplets.
@@ -41,7 +41,7 @@ Fonctionnement des additifs anti-mousses organiques.
 - 2021 : **Journées de la matière condensée**, en ligne.   
 Interfacial dynamics of a surfactant-laden drop flowing through a contraction.
 
-# Invited seminars
+### Invited seminars
 
 - 2023 : **laboratoire de Physique des Solides** (team Soft Interface), université Paris-Saclay, France.
   
