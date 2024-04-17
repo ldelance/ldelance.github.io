@@ -17,7 +17,7 @@ With Hans-Jürgen Butt and Kaloian Koynov
 
 
 
-### 10/2020 – 12/2023: PhD in Physics at ESPCI, Paris, France
+### 10/2020 – 12/2023: PhD in Physics at SIMM laboratory, ESPCI, Paris, France
 
 Supervisors
 : François Lequeux, Laurence Talini, Emilie Verneuil
@@ -32,6 +32,15 @@ Jury
 
 ### 2018 – 2020 Master of Physics at ENS de Lyon, France
 
+Research internships:
+
+- SIMM laboratory, ESPCI, Paris
+Effect of surfactants on the passage of a drop immersed in water through a constriction
+Supervisors: François Lequeux, Laurence Talini, Emilie Verneuil
+
+- Losert Lab, University of Maryland, USA
+Experimental study of the rotational motion of particles in a granular material
+Supervisor: Wolfgang Losert
 
 ### 2017 Bachelor of Physics at ENS de Lyon, France
 
@@ -43,3 +52,6 @@ Jury
   - Johannes Gutenberg University Mainz
   - *Total time:* 24h TP
 
+- **Supervision of interns**
+  - 1st year ESPCI student (L3): 1 month
+  - 3rd year ESPCI student (M2): 3 months
