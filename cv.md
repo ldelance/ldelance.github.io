@@ -39,8 +39,8 @@ Research internships:
 Supervisors: François Lequeux, Laurence Talini, Emilie Verneuil
 
 - Losert Lab, University of Maryland, USA
-: Experimental study of the rotational motion of particles in a granular material
-Supervisor: Wolfgang Losert
+:  Experimental study of the rotational motion of particles in a granular material   
+   Supervisor: Wolfgang Losert
 
 ### 2017 Bachelor of Physics at ENS de Lyon, France
 
