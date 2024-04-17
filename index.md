@@ -21,7 +21,7 @@ During my PhD, I researched the effect of antifoaming additives on the foaming o
 &emsp; Postdoctoral researcher   
 
 &emsp; Max Planck Institute for Polymer Research - Office 0.007
-&emsp;   Mainz, Germany   
+&emsp; Mainz, Germany   
 &emsp; [On the map]([https://maps.app.goo.gl/yp7wkx2vky3enpVx9)
 
 &emsp; Email: delancel@mpip-mainz.mpg.de
