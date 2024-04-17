@@ -21,7 +21,7 @@ Stability of a thin liquid film composed of spontaneously emulsified microdrople
 - 2021 : **ECIS** (European Colloid and Interface Society), Athènes.   
 Interfacial dynamics of a surfactant-laden drop flowing through a contraction.
 
-# National conferences
+# National (French) conferences
 
 - 2023 : **GDR SLAMM**, Sète.   
 Bursting of non-aqueous suspended liquid films induced by Marangoni-driven spreading of emulsified droplets.
