@@ -15,7 +15,7 @@ During my PhD, I researched the effect of antifoaming additives on the foaming o
 
 ## Contact information
 
-<img align="left" src="./res/profile_picture.jpg" alt="Duomo di Milano" style="width:300px;"/>
+<img align="left" src="./lea-768x768.jpg" alt="Duomo di Milano" style="width:300px;"/>
 
 &emsp; Léa Delance   
 &emsp; Postdoctoral researcher   
