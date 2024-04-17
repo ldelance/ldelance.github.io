@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Homepage
 
-Since 2024, I have been a post-doctoral researcher at the Max Planck Institute for Polymer research (Mainz, Germany) in the group of Prof. H.-J. Butt. From 2020 to 2023, I did my PhD in the SIMM lab (ESPCI Paris) under the supervision of François Lequeux, Laurence Talini and Emilie Verneuil. I have been a ENS de Lyon student from 2017 to 2020, where I obtained a master’s degree in Physics.
+Since 2024, I have been a post-doctoral researcher at the Max Planck Institute for Polymer research (Mainz, Germany) in the group of [Prof. H.-J. Butt](https://www.mpip-mainz.mpg.de/en/butt). From 2020 to 2023, I did my PhD in the SIMM lab (ESPCI Paris) under the supervision of François Lequeux, Laurence Talini and Emilie Verneuil. I have been a ENS de Lyon student from 2017 to 2020, where I obtained a master’s degree in Physics.
 
 ## Research interests
 
