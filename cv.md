@@ -52,7 +52,7 @@ Research internship:
 
 - **Initiation to programming** (Python)
   - April - August 2024
-  - Johannes Gutenberg University Mainz
+  - Johannes Gütenberg University Mainz
   - *Total time:* 24h TP
 
 - **Supervision of interns**
