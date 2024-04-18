@@ -15,7 +15,7 @@ During my [PhD](https://pastel.hal.science/tel-04359779/), I researched the effe
 
 ## Contact information
 
-<img align="left" src="./lea-768x768.jpg" alt="Duomo di Milano" style="width:300px;"/>
+<img align="left" src="./lea-768x768.jpg" alt="Duomo di Milano" style="width:200px;"/>
 
 &emsp; Léa Delance   
 &emsp; Postdoctoral researcher   
