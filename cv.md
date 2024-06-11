@@ -20,7 +20,8 @@ Thesis title
 : Destabilisation mechanisms of oil foams [(PDF)](res/ESPCI_DELANCE_2023_archivage2.pdf)
 
 Jury
-: Elise Lorenceau (Reviewer)   
+: Etienne Reyssat (President)   
+  Elise Lorenceau (Reviewer)   
   Arnaud Saint Jalmes (Reviewer)   
   Marie Le Merrer
 
