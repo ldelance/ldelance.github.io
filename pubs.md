@@ -11,7 +11,7 @@ nav_order: 3
 
 **L. Delance**,  E. Santanach-Carreras, N. Passade-Boupat, F. Lequeux, L. Talini and  E. Verneuil   
 *accepted*, 2024
-[(arXiv)](arXiv:2406.06169v1) 
+[(arXiv)](https://arxiv.org/abs/2406.06169)
 
 ### Uptake kinetics of spontaneously emulsified microdroplets at an air–liquid interface  
 
