@@ -6,8 +6,13 @@ nav_order: 4
 # Talks
 
 ### International conferences
+- September 2024 (forthcoming): **EFDC**, Aachen.   
+Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
 
-- July 2024 (forthcoming) : **EUFOAM**, Dresden.   
+- September 2024 (forthcoming): **ECIS**, Copenhagen.   
+Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
+
+- 2024: **EUFOAM**, Dresden.   
 Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
 
 - 2023: **Fluids and Complexity 3**, Nice.   
