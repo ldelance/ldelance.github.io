@@ -10,8 +10,8 @@ nav_order: 3
 ### How emulsified droplets induce the bursting of suspended films of liquid mixtures  
 
 **L. Delance**,  E. Santanach-Carreras, N. Passade-Boupat, F. Lequeux, L. Talini and  E. Verneuil   
-*accepted*, 2024
-[(arXiv)](https://arxiv.org/abs/2406.06169)
+*Soft Matter*, 2024
+[(DOI)](https://doi.org/10.1039/D4SM00240G)
 
 ### Uptake kinetics of spontaneously emulsified microdroplets at an air–liquid interface  
 
