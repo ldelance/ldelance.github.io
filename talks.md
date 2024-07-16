@@ -6,25 +6,25 @@ nav_order: 4
 # Talks
 
 ### International conferences
-- September 2024 (forthcoming): **EFDC**, Aachen.   
+- September 2024 (forthcoming): **EFDC**, Aachen, Germany.   
 Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
 
-- September 2024 (forthcoming): **ECIS**, Copenhagen.   
+- September 2024 (forthcoming): **ECIS**, Copenhagen, Denmark.   
 Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
 
-- 2024: **EUFOAM**, Dresden.   
+- 2024: **EUFOAM**, Dresden, Germany.   
 Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
 
-- 2023: **Fluids and Complexity 3**, Nice.   
+- 2023: **Fluids and Complexity 3**, Nice, France.   
 Destabilisation mechanisms of oil foams.
 
-- 2023: **International Marangoni Association**, Bordeaux.   
+- 2023: **International Marangoni Association**, Bordeaux, France.   
 Bursting of non-aqueous suspended liquid films induced by emulsified droplets.
 
-- 2022: **ECIS** (European Colloid and Interface Society), Chania.   
+- 2022: **ECIS** (European Colloid and Interface Society), Chania, Greece.   
 Stability of a thin liquid film composed of spontaneously emulsified microdroplets.
 
-- 2021: **ECIS** (European Colloid and Interface Society), Athens.   
+- 2021: **ECIS** (European Colloid and Interface Society), Athens, Greece.   
 Interfacial dynamics of a surfactant-laden drop flowing through a contraction.
 
 ### National (French) conferences
