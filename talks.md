@@ -6,10 +6,10 @@ nav_order: 4
 # Talks
 
 ### International conferences
-- September 2024 (forthcoming): **EFDC**, Aachen, Germany.   
+- 2024: **EFDC**, Aachen, Germany.   
 Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
 
-- September 2024 (forthcoming): **ECIS**, Copenhagen, Denmark.   
+- 2024: **ECIS**, Copenhagen, Denmark.   
 Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
 
 - 2024: **EUFOAM**, Dresden, Germany.   
@@ -55,3 +55,6 @@ Interfacial dynamics of a surfactant-laden drop flowing through a contraction.
   
 - 2022: **Butt's group**, Max Planck Institute for Polymer Research, Mainz, Germany.
 
+# Poster
+
+- 2024: **Liquid Matter Conference**, Mainz, Germany.
