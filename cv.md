@@ -49,7 +49,9 @@ Research internship:
    **Dynamics of magnetic cylinders under a magnetic field**   
    Supervisors: Olivia Du Roure, Julien Heuvingh
   
-## Teaching
+## Teaching and professional responsibilities
+
+- 11/2024 – now: **Post-doc representative** of the Max Planck Institute for Polymer Research
 
 - **Initiation to programming** (Python)
   - April - August 2024
@@ -59,3 +61,4 @@ Research internship:
 - **Supervision of interns**
   - 1st year ESPCI student (L3): 1 month
   - 3rd year ESPCI student (M2): 3 months
+
