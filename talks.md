@@ -6,6 +6,9 @@ nav_order: 4
 # Talks
 
 ### International conferences
+- 2025: **Fluids and Complexity 4**, Nice, France.   
+Contact Line Instabilities in Sliding Viscoelastic Drops
+
 - 2024: **EFDC**, Aachen, Germany.   
 Bursting of non-aqueous suspended liquid films induced by the spreading of emulsified droplets.
 
