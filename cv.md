@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Academic Background
 
-### 03/2026 –: Post-doctoral researcher at Insitut de Physique de Rennes, France
+### 03/2026 – : Post-doctoral researcher at Institut de Physique de Rennes, France
 
 With François Peaudecerf
 
