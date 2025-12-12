@@ -7,7 +7,11 @@ nav_order: 2
 
 ## Academic Background
 
-### 01/2024 – now: Post-doctoral researcher at Max Planck Institute for Polymer Research, Mainz, Germany
+### 03/2026 –: Post-doctoral researcher at Insitut de Physique de Rennes, France
+
+With François Peaudecerf
+
+### 01/2024 – 02/2026: Post-doctoral researcher at Max Planck Institute for Polymer Research, Mainz, Germany
 
 With Hans-Jürgen Butt and Kaloian Koynov
 
