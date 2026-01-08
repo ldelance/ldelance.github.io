@@ -9,7 +9,7 @@ nav_order: 3
 ### Advancements in the forecasting of foaming of organic liquids for flow assurance studies
 
 N. Passade-Boupat, **L. Delance**, H. P. Tran, M. Arangalage, R. Belt, D. Lauranson, F. Lequeux, L. Talini, E. Verneuil   
-*Geoenergy Science and Engineering*, 2025
+*Geoenergy Science and Engineering*, 2026
 [(DOI)](https://doi.org/10.1016/j.geoen.2025.214321)
 
 ### How emulsified droplets induce the bursting of suspended films of liquid mixtures  
