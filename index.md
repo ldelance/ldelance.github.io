@@ -25,5 +25,5 @@ During my [PhD](https://pastel.hal.science/tel-04359779/), I researched the effe
 &emsp; [On the map](https://maps.app.goo.gl/yp7wkx2vky3enpVx9)
 
 &emsp; Email: **redir.espci.lea.del@gmail.com**
-&emsp; :warning: My MPIP email address is no longer valid!
+&emsp;  [!WARNING] My MPIP email address is no longer valid!
 <br clear="left"/>
