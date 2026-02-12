@@ -26,5 +26,5 @@ During my [PhD](https://pastel.hal.science/tel-04359779/), I researched the effe
 
 &emsp; Email: **redir.espci.lea.del@gmail.com**
 
-&emsp;  ⚠️ My MPIP email address is no longer valid!
+&emsp;  ⚠️ **My MPIP email address is no longer valid!**
 <br clear="left"/>
