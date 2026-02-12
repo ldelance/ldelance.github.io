@@ -16,6 +16,7 @@ During my [PhD](https://pastel.hal.science/tel-04359779/), I researched the effe
 ## Contact information
 
 <img align="left" src="./lea-768x768.jpg" alt="Duomo di Milano" style="width:200px;"/>
+
 &emsp; Léa Delance   
 &emsp; Postdoctoral researcher   
 
@@ -24,5 +25,6 @@ During my [PhD](https://pastel.hal.science/tel-04359779/), I researched the effe
 &emsp; [On the map](https://maps.app.goo.gl/yp7wkx2vky3enpVx9)
 
 &emsp; Email: **redir.espci.lea.del@gmail.com**
+
 &emsp;  ⚠️ My MPIP email address is no longer valid!
 <br clear="left"/>
