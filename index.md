@@ -24,7 +24,7 @@ During my [PhD](https://pastel.hal.science/tel-04359779/), I researched the effe
 &emsp; Mainz, Germany   
 &emsp; [On the map](https://maps.app.goo.gl/yp7wkx2vky3enpVx9)
 
-&emsp; Email: ** lea.delance@univ-rennes.fr**
+&emsp; Email: **lea.delance@univ-rennes.fr**
 
 &emsp;  ⚠️ **My MPIP email address is no longer valid!**
 <br clear="left"/>
