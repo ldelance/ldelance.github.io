@@ -22,7 +22,7 @@ During my [PhD](https://pastel.hal.science/tel-04359779/), I researched the effe
 
 &emsp; Institut de Physique de Rennes - Office 032/4   
 &emsp; Rennes, France   
-&emsp; [On the map](Institut de Physique de Rennes, UMR UR1-CNRS 6251)
+&emsp; [On the map](https://maps.app.goo.gl/UR3nxa5AgigYNK2DA)
 
 &emsp; Email: **lea.delance@univ-rennes.fr**
 
