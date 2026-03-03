@@ -9,11 +9,13 @@ nav_order: 2
 
 ### 03/2026 – : Post-doctoral researcher at Institut de Physique de Rennes, France
 
-With François Peaudecerf
+With François Peaudecerf   
+_Interfacial dynamics of bacterial solutions_
 
 ### 01/2024 – 02/2026: Post-doctoral researcher at Max Planck Institute for Polymer Research, Mainz, Germany
 
-With Hans-Jürgen Butt and Kaloian Koynov
+With Hans-Jürgen Butt and Kaloian Koynov    
+_Sliding drops: micrometric deformation of the contact line_
 
 ### 10/2020 – 12/2023: PhD in Physics at SIMM laboratory, ESPCI, Paris, France
 
