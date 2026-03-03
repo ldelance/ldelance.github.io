@@ -52,6 +52,8 @@ Interfacial dynamics of a surfactant-laden drop flowing through a contraction.
 
 ### Invited seminars
 
+- 2026: **Institut Charles Sadron** (Physics department), Strasbourg, France.
+
 - 2025: **Institut de Physique de Rennes** (Soft matter department), France.
 
 - 2023: **laboratoire de Physique des Solides** (team Soft Interface), université Paris-Saclay, France.
