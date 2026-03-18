@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Homepage
 
-Since March 2026, I have been a post-doctoral researcher at the Institut de Physique de Rennes in the group of [François Peaudecerf](https://ipr.univ-rennes.fr/interlocuteurs/francois-peaudecerf). From 2024 to 2025, I did a postdoc at the Max Planck Institute for Polymer research (Mainz, Germany) in the group of [Prof. H.-J. Butt](https://www.mpip-mainz.mpg.de/en/butt). From 2020 to 2023, I did my PhD in the SIMM lab ([ESPCI Paris](https://www.espci.psl.eu/en/)) under the supervision of François Lequeux, Laurence Talini and Emilie Verneuil. I have been a [ENS de Lyon](http://www.ens-lyon.fr/) student from 2017 to 2020, where I obtained a master’s degree in Physics.
+Since March 2026, I have been a [post-doctoral researcher](https://ipr.univ-rennes.fr/en/highlights/lea-delance-and-hector-ignacio-urra-urra-post-doctoral-researchers-ipr) at the Institut de Physique de Rennes in the group of [François Peaudecerf](https://ipr.univ-rennes.fr/interlocuteurs/francois-peaudecerf). From 2024 to 2025, I did a postdoc at the Max Planck Institute for Polymer research (Mainz, Germany) in the group of [Prof. H.-J. Butt](https://www.mpip-mainz.mpg.de/en/butt). From 2020 to 2023, I did my PhD in the SIMM lab ([ESPCI Paris](https://www.espci.psl.eu/en/)) under the supervision of François Lequeux, Laurence Talini and Emilie Verneuil. I have been a [ENS de Lyon](http://www.ens-lyon.fr/) student from 2017 to 2020, where I obtained a master’s degree in Physics.
 
 ## Research interests
 
