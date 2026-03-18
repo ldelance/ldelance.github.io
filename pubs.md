@@ -9,7 +9,8 @@ nav_order: 3
 ### 7. Water drops sliding over arrays of Janus micropillars with hydrophilic tops: A new mechanism of drop charging
 
 F. Darvish, M. Isaacs, S. Shumaly, **L. Delance**, H. J. Butt   
-*Small*, 2026, accepted
+*Small*, 2026
+[(DOI)](https://doi.org/10.1002/smll.202511728)
 
 ### 6. Advancements in the forecasting of foaming of organic liquids for flow assurance studies
 
