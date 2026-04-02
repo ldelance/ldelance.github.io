@@ -8,7 +8,7 @@ nav_order: 3
 
 ### 8. Polyelectrolyte adsorption at the solid-liquid interface favors receding contact line instability
 
-**L. Delance**, Diego Díaz, Arivazhagan G. Balasubramanian, Outi Tammisola, Kaloian Koynov, Hans-Jürgen Butt  
+**L. Delance**, D. Díaz, A. G. Balasubramanian, O. Tammisola, K. Koynov, H. J. Butt  
 *submitted*, 2026
 [(arXiv)](https://arxiv.org/abs/2604.01185)
 
