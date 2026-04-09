@@ -15,3 +15,9 @@ When observed using monochromatic light, this thin liquid film reveals interfero
 <img align="center" src="./res/photo1.png" style="width:1000px;"/>   
 
 Marginal regeneration in surface bubbles. The black and white patches at its surface correspond to patches of different thicknesses. This creates a flow in the liquid which eventually causes the bursting of the bubble.
+
+# Aligned life lines
+
+<img align="center" src="./res/sewed_edges_inverted.png" style="width:800px;"/>   
+
+Cationic polymers dissolved in water drop are deposited at the rear of a sliding drop. Here we image the polymer deposit with SEM. The observed pattern is due to hydrodynamic instabilities that develop at the rear of the drop.
