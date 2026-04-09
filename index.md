@@ -9,8 +9,7 @@ Since March 2026, I have been a [post-doctoral researcher](https://ipr.univ-renn
 
 ## Research interests
 
-My research topics include the physics of foams, emulsions and wetting.
-During my [PhD](https://pastel.hal.science/tel-04359779/), I researched the effect of antifoaming additives on the foaming of organic liquids. This led me to experimentally investigate the interactions between microdroplets and air-liquid interfaces across various scales ranging from foams to bubbles and suspended thin liquid films. For this purpose, I used techniques like light interferometry, dynamic light scattering and tensiometry. I also enjoy developing in-house experiments and codes for image analysis.
+My research, primarily experimental, focuses on soft matter, with a particular interest in the dynamics of foams, emulsions, and droplets. I seek to understand the evolution of these systems by emphasizing the small-scale physical phenomena that occur at interfaces, whether liquid-liquid, air-liquid, or liquid-solid, and, more recently, their coupling with bacterial dynamics. For this purpose, I use various imaging (optical microscopy, interferometry, AFM) and characterization (rheology, dynamic light scattering, tensiometry) techniques. I also enjoy developing in-house experiments and codes for image analysis.
 
 
 ## Contact information
