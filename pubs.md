@@ -9,7 +9,7 @@ nav_order: 3
 ### 8. Polyelectrolyte adsorption at the solid-liquid interface favors receding contact line instability
 
 **L. Delance**, D. Díaz, A. G. Balasubramanian, O. Tammisola, K. Koynov, H. J. Butt  
-*submitted*, 2026
+*accepted in Physics of Fluids*, 2026
 [(arXiv)](https://arxiv.org/abs/2604.01185)
 
 ### 7. Water drops sliding over arrays of Janus micropillars with hydrophilic tops: A new mechanism of drop charging
