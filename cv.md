@@ -57,7 +57,7 @@ Research internship:
   
 ## Teaching and professional responsibilities
 
-- 11/2024 – now: **Post-doc representative** of the Max Planck Institute for Polymer Research
+- 11/2024 – 12/2025: **Post-doc representative** of the Max Planck Institute for Polymer Research
 
 - **Initiation to programming** (Python)
   - April - August 2024
