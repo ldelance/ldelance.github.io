@@ -6,6 +6,10 @@ nav_order: 4
 # Talks
 
 ### International conferences
+
+- 2026 (upcoming): **ECIS**, Granada, Spain.   
+Contact Line Instabilities in Sliding Viscoelastic Drops
+
 - 2025: **Fluids and Complexity 4**, Nice, France.   
 Contact Line Instabilities in Sliding Viscoelastic Drops
 
@@ -63,5 +67,7 @@ Interfacial dynamics of a surfactant-laden drop flowing through a contraction.
 - 2022: **Butt's group**, Max Planck Institute for Polymer Research, Mainz, Germany.
 
 # Poster
+
+- 2026: **Microfluidic Horizons**, Padova, Italy.
 
 - 2024: **Liquid Matter Conference**, Mainz, Germany.
