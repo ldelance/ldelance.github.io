@@ -68,6 +68,6 @@ Interfacial dynamics of a surfactant-laden drop flowing through a contraction.
 
 # Poster
 
-- 2026: **Microfluidic Horizons**, Padova, Italy.
+- 2026: **Microfluidic Horizons**, Padova, Italy.   
 
 - 2024: **Liquid Matter Conference**, Mainz, Germany.
