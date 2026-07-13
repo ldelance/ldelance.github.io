@@ -10,7 +10,7 @@ nav_order: 3
 
 **L. Delance**, D. Díaz, A. G. Balasubramanian, O. Tammisola, K. Koynov, H. J. Butt  
 *Physics of Fluids*, 2026
-[(DOI)]([https://arxiv.org/abs/2604.01185](https://doi.org/10.1063/5.0338811))
+[(DOI)](https://doi.org/10.1063/5.0338811)
 
 ### 7. Water drops sliding over arrays of Janus micropillars with hydrophilic tops: A new mechanism of drop charging
 
